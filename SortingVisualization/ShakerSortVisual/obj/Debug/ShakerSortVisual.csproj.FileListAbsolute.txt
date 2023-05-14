@@ -1,0 +1,10 @@
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\ShakerSortVisual\ShakerSortVisual\bin\Debug\ShakerSortVisual.exe.config
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\ShakerSortVisual\ShakerSortVisual\bin\Debug\ShakerSortVisual.exe
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\ShakerSortVisual\ShakerSortVisual\bin\Debug\ShakerSortVisual.pdb
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\ShakerSortVisual\ShakerSortVisual\obj\Debug\ShakerSortVisual.csprojAssemblyReference.cache
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\ShakerSortVisual\ShakerSortVisual\obj\Debug\ShakerSortVisual.Form1.resources
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\ShakerSortVisual\ShakerSortVisual\obj\Debug\ShakerSortVisual.Properties.Resources.resources
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\ShakerSortVisual\ShakerSortVisual\obj\Debug\ShakerSortVisual.csproj.GenerateResource.cache
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\ShakerSortVisual\ShakerSortVisual\obj\Debug\ShakerSortVisual.csproj.CoreCompileInputs.cache
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\ShakerSortVisual\ShakerSortVisual\obj\Debug\ShakerSortVisual.exe
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\ShakerSortVisual\ShakerSortVisual\obj\Debug\ShakerSortVisual.pdb

@@ -1,0 +1,41 @@
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\ShakerSortVisual\ShakerSortVisual\bin\Debug\ShakerSortVisual.exe.config
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\ShakerSortVisual\ShakerSortVisual\bin\Debug\ShakerSortVisual.exe
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\ShakerSortVisual\ShakerSortVisual\bin\Debug\ShakerSortVisual.pdb
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\ShakerSortVisual\ShakerSortVisual\obj\Debug\ShakerSortVisual.Form1.resources
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\ShakerSortVisual\ShakerSortVisual\obj\Debug\ShakerSortVisual.Properties.Resources.resources
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\ShakerSortVisual\ShakerSortVisual\obj\Debug\SortVisualisation.csproj.GenerateResource.cache
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\ShakerSortVisual\ShakerSortVisual\obj\Debug\SortVisualisation.csproj.CoreCompileInputs.cache
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\ShakerSortVisual\ShakerSortVisual\obj\Debug\ShakerSortVisual.exe
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\ShakerSortVisual\ShakerSortVisual\obj\Debug\ShakerSortVisual.pdb
+C:\Users\KORISNIK\Documents\Visual Studio 2017\Projects\ShakerSortVisual\ShakerSortVisual\obj\Debug\SortVisualisation.csprojAssemblyReference.cache
+C:\Users\KORISNIK\Desktop\Job\Projects\SortingVisualization\ShakerSortVisual\bin\Debug\ShakerSortVisual.exe.config
+C:\Users\KORISNIK\Desktop\Job\Projects\SortingVisualization\ShakerSortVisual\bin\Debug\ShakerSortVisual.exe
+C:\Users\KORISNIK\Desktop\Job\Projects\SortingVisualization\ShakerSortVisual\bin\Debug\ShakerSortVisual.pdb
+C:\Users\KORISNIK\Desktop\Job\Projects\SortingVisualization\ShakerSortVisual\obj\Debug\SortVisualisation.csprojAssemblyReference.cache
+C:\Users\KORISNIK\Desktop\Job\Projects\SortingVisualization\ShakerSortVisual\obj\Debug\ShakerSortVisual.Form1.resources
+C:\Users\KORISNIK\Desktop\Job\Projects\SortingVisualization\ShakerSortVisual\obj\Debug\ShakerSortVisual.Properties.Resources.resources
+C:\Users\KORISNIK\Desktop\Job\Projects\SortingVisualization\ShakerSortVisual\obj\Debug\SortVisualisation.csproj.GenerateResource.cache
+C:\Users\KORISNIK\Desktop\Job\Projects\SortingVisualization\ShakerSortVisual\obj\Debug\SortVisualisation.csproj.CoreCompileInputs.cache
+C:\Users\KORISNIK\Desktop\Job\Projects\SortingVisualization\ShakerSortVisual\obj\Debug\ShakerSortVisual.exe
+C:\Users\KORISNIK\Desktop\Job\Projects\SortingVisualization\ShakerSortVisual\obj\Debug\ShakerSortVisual.pdb
+C:\Users\KORISNIK\Desktop\Jobb\Projects\SortingVisualization\ShakerSortVisual\bin\Debug\ShakerSortVisual.exe.config
+C:\Users\KORISNIK\Desktop\Jobb\Projects\SortingVisualization\ShakerSortVisual\bin\Debug\ShakerSortVisual.exe
+C:\Users\KORISNIK\Desktop\Jobb\Projects\SortingVisualization\ShakerSortVisual\bin\Debug\ShakerSortVisual.pdb
+C:\Users\KORISNIK\Desktop\Jobb\Projects\SortingVisualization\ShakerSortVisual\obj\Debug\SortVisualisation.csprojAssemblyReference.cache
+C:\Users\KORISNIK\Desktop\Jobb\Projects\SortingVisualization\ShakerSortVisual\obj\Debug\ShakerSortVisual.Form1.resources
+C:\Users\KORISNIK\Desktop\Jobb\Projects\SortingVisualization\ShakerSortVisual\obj\Debug\ShakerSortVisual.Properties.Resources.resources
+C:\Users\KORISNIK\Desktop\Jobb\Projects\SortingVisualization\ShakerSortVisual\obj\Debug\SortVisualisation.csproj.GenerateResource.cache
+C:\Users\KORISNIK\Desktop\Jobb\Projects\SortingVisualization\ShakerSortVisual\obj\Debug\SortVisualisation.csproj.CoreCompileInputs.cache
+C:\Users\KORISNIK\Desktop\Jobb\Projects\SortingVisualization\ShakerSortVisual\obj\Debug\ShakerSortVisual.exe
+C:\Users\KORISNIK\Desktop\Jobb\Projects\SortingVisualization\ShakerSortVisual\obj\Debug\ShakerSortVisual.pdb
+C:\Users\admin\Source\Repos\sorting-visualizer\SortingVisualization\ShakerSortVisual\bin\Debug\ShakerSortVisual.exe.config
+C:\Users\admin\Source\Repos\sorting-visualizer\SortingVisualization\ShakerSortVisual\bin\Debug\ShakerSortVisual.exe
+C:\Users\admin\Source\Repos\sorting-visualizer\SortingVisualization\ShakerSortVisual\bin\Debug\ShakerSortVisual.pdb
+C:\Users\admin\Source\Repos\sorting-visualizer\SortingVisualization\ShakerSortVisual\obj\Debug\SortVisualisation.csproj.AssemblyReference.cache
+C:\Users\admin\Source\Repos\sorting-visualizer\SortingVisualization\ShakerSortVisual\obj\Debug\SortVisualisation.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Source\Repos\sorting-visualizer\SortingVisualization\ShakerSortVisual\obj\Debug\ShakerSortVisual.Form1.resources
+C:\Users\admin\Source\Repos\sorting-visualizer\SortingVisualization\ShakerSortVisual\obj\Debug\ShakerSortVisual.Properties.Resources.resources
+C:\Users\admin\Source\Repos\sorting-visualizer\SortingVisualization\ShakerSortVisual\obj\Debug\SortVisualisation.csproj.GenerateResource.cache
+C:\Users\admin\Source\Repos\sorting-visualizer\SortingVisualization\ShakerSortVisual\obj\Debug\SortVisualisation.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\Repos\sorting-visualizer\SortingVisualization\ShakerSortVisual\obj\Debug\ShakerSortVisual.exe
+C:\Users\admin\Source\Repos\sorting-visualizer\SortingVisualization\ShakerSortVisual\obj\Debug\ShakerSortVisual.pdb
